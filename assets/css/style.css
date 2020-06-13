@@ -1,0 +1,23 @@
+body{
+    font-family: "Century Gothic", serif;
+}
+
+.jumbotron{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+hr{
+    width: 100px;
+    border-top: 3px solid cornflowerblue;
+}
+
+#about{
+    height: 300px;
+}
+
+.jumbotron img{
+    width: 200px;
+    height: 200px;
+    border: 4px solid white;
+}
